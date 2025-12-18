@@ -102,7 +102,7 @@ def show_window():
 
     window = tk.Tk()
     window.iconphoto(False, ImageTk.PhotoImage(image))
-    window.title("Gemini Cursor Helper")
+    window.title("AI Cursor Helper")
     window.geometry("600x150")
     window.resizable(False, False)
 
